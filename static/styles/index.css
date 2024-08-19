@@ -1,0 +1,33 @@
+#header{
+    height: 50px;
+}
+
+#sidebar{
+
+}
+
+.searchbar{
+    margin-left: 10px;
+    margin-right: 10px;
+
+    border-radius: 10px;
+    background-color: rgb(44, 43, 43);
+
+    border: 2px;
+
+    height: 40px;
+    width: 300px;
+
+    color: white;
+
+    margin-top: 5px;
+}
+
+#profileButton{
+    padding: 0px 10px;
+    border-radius: 10px;
+}
+
+#profileButton:hover{
+    background-color: rgb(250, 235, 215);
+}
